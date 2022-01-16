@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Bouclier ébréché","note":"","params":[0,0,0,10,0,0,0,0],"price":30},
+{"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Casque de novice","note":"","params":[0,0,0,3,0,0,0,0],"price":30},
+{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Armure endommagé","note":"","params":[0,0,0,3,0,0,0,0],"price":30},
+{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Bague de novice","note":"","params":[0,0,0,0,3,0,0,0],"price":30},
+{"id":5,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":144,"name":"Bracelet rouillé","note":"","params":[0,0,0,3,0,0,0,0],"price":30},
+{"id":6,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":150,"name":"Bandana déchiré","note":"","params":[0,0,0,3,0,0,0,0],"price":30},
+{"id":7,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Armure de voyageur","note":"","params":[0,0,0,4,0,0,0,0],"price":45},
+{"id":8,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Armure de brigand","note":"","params":[0,0,0,5,0,0,0,0],"price":55},
+{"id":9,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Armure de soldat","note":"","params":[0,0,0,6,0,0,0,0],"price":70},
+{"id":10,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Casque de voyageur","note":"","params":[0,0,0,4,0,0,0,0],"price":45},
+{"id":11,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Casque de brigand","note":"","params":[0,0,0,5,0,0,0,0],"price":55},
+{"id":12,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Casque de soldat","note":"","params":[0,0,0,6,0,0,0,0],"price":70},
+{"id":13,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":139,"name":"Cape de novice","note":"","params":[0,0,0,3,0,0,0,0],"price":30},
+{"id":14,"atypeId":2,"description":"","etypeId":3,"traits":[{"code":13,"dataId":12,"value":0.05}],"iconIndex":134,"name":"Diadème de givre","note":"<Random Variance: 0>\n<Text Color: 18>","params":[0,0,0,0,8,0,0,0],"price":0},
+{"id":15,"atypeId":2,"description":"","etypeId":3,"traits":[{"code":13,"dataId":11,"value":0.07}],"iconIndex":133,"name":"Couvre-chef incandescent","note":"<Random Variance: 0>\n<Text Color: 18>","params":[0,0,0,0,12,0,0,0],"price":0},
+{"id":16,"atypeId":2,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0.07}],"iconIndex":139,"name":"Cape d'évasion","note":"<Random Variance: 0>\n<Text Color: 18>","params":[0,0,0,0,15,0,0,0],"price":0}
+]

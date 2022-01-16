@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"ByakuJ","characterIndex":0,"characterName":"Byaku-J","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Byaku-J","traits":[],"initialLevel":1,"maxLevel":99,"name":"Brim","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Femme","characterIndex":0,"characterName":"Femme","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Femme","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ada","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Linra","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ok","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Test","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Login","nickname":"","note":"","profile":""}
+]
